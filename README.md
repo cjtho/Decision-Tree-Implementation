@@ -16,5 +16,8 @@ The dataset used in this project consists of credit card transaction records and
 ## Usage
 Start with `DecisionTreePerformanceAnalysis.ipynb` to follow the project workflow. Ensure that the `Credit_card_dataset.csv` is located in the working directory and that necessary Python packages are installed. The additional scripts `decision_tree_evaluator.py` and `node.py` are integrated within the notebook to assist in various operations.
 
+## Future Work
+Implement additional splitting criterions.
+
 ## Contact
 Email: christopherjthomaswork@gmail.com
